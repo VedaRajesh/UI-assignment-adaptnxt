@@ -1,4 +1,4 @@
-package com.practice.adaptnxtassignment
+﻿package com.practice.adaptnxtassignment
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
